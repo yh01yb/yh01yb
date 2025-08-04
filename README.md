@@ -1,7 +1,7 @@
-<!-- Profile Header -->
-<h1 align="left">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+I'm+YOUR_NAME;Welcome+to+my+GitHub+profile!&center=false&color=00FF00&size=24" />
-</h1>
+<!-- Header -->
+<h3 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00FF00&center=false&vCenter=true&width=435&lines=Hey+I'm+YOUR_NAME;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+</h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
 
@@ -9,7 +9,7 @@
 
 ## 🔗 About
 
-Just wanna be a dev 
+Just a dev trying to make sense of the chaos, break the internet (on purpose), build stuff that doesn’t crash (mostly), and occasionally pretend I know what I’m doing.
 
 ---
 
@@ -23,6 +23,7 @@ Just wanna be a dev
 
 ---
 
-<p align="center">
-  <code style="color:limegreen;">&gt; Building. Breaking. Learning. Repeating.</code>
-</p>
+<!-- Animated Quote -->
+<h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=%3E+Building.+Breaking.+Learning.+Repeating." alt="Terminal Line" />
+</h3>
