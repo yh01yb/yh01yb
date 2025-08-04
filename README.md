@@ -1,25 +1,26 @@
 <!-- Header -->
 <h3 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00FF00&center=false&vCenter=true&width=435&lines=Hey+I'm+YOUR_NAME;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00FF00&center=false&vCenter=true&width=435&lines=Hey+I'm+Adi;Sorry+I'm+on+Hiatus" alt="Typing SVG" />
 </h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=yh01yb&color=blue)
 
 ---
 
 ## 🔗 About
 
-Just a dev trying to make sense of the chaos, break the internet (on purpose), build stuff that doesn’t crash (mostly), and occasionally pretend I know what I’m doing.
+...
 
 ---
 
 ## 🚀 My Progress
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)](https://github.com/YOUR_USERNAME)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yh01yb&layout=compact&theme=dark)](https://github.com/yh01yb)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=yh01yb&theme=dark&hide_border=false)](https://git.io/streak-stats)
 
-[![Total Contributions](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)](https://github.com/YOUR_USERNAME)
+
+[![Total Contributions](https://github-readme-stats.vercel.app/api?username=yh01yb&show_icons=true&theme=tokyonight)](https://github.com/yh01yb)
 
 ---
 
