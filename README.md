@@ -10,12 +10,17 @@
 ...
 
 ## My Progress
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yh01yb&layout=compact&theme=dark" width="300" />
-  <img src="https://streak-stats.demolab.com?user=yh01yb&theme=dark&hide_border=false" width="400" />
+<div align="center">
+
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yh01yb&layout=compact&theme=dark&hide_border=false" height="180px"/>
+
+  <!-- Contribution Streak -->
+  <img src="https://streak-stats.demolab.com?user=yh01yb&theme=dark&hide_border=false" height="180px"/>
+
 </div>
 
 <!-- Animated Quote -->
 <h3>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00FF00&center=false&vCenter=false&width=600&lines=%3E+Building.+Breaking.+Learning.+Repeating." alt="Terminal Line" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00FF00&center=false&vCenter=false&width=435&lines=%3E+Building.+Breaking.+Learning.+Repeating." alt="Terminal Line" />
 </h3>
