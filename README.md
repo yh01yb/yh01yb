@@ -13,10 +13,10 @@
 <div align="center">
 
   <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yh01yb&layout=compact&theme=dark&hide_border=false" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yh01yb&layout=compact&theme=dark&hide_border=false" width="300"/>
 
   <!-- Contribution Streak -->
-  <img src="https://streak-stats.demolab.com?user=yh01yb&theme=dark&hide_border=false" height="180px"/>
+  <img src="https://streak-stats.demolab.com?user=yh01yb&theme=dark&hide_border=false" width="300"/>
 
 </div>
 
