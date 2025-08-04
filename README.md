@@ -5,13 +5,11 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yh01yb&color=blue)
 
----
 
 ## 🔗 About
 
 ...
 
----
 
 ## 🚀 My Progress
 
@@ -22,7 +20,6 @@
 
 [![Total Contributions](https://github-readme-stats.vercel.app/api?username=yh01yb&show_icons=true&theme=tokyonight)](https://github.com/yh01yb)
 
----
 
 <!-- Animated Quote -->
 <h3>
