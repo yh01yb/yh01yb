@@ -4,6 +4,7 @@
 </h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yh01yb&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=yh01yb&color=green)
 
 ## About
 
