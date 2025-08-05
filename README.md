@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00FF00&center=false&vCenter=true&width=435&lines=Hey+I'm+Adi;Sorry+I'm+on+Hiatus" alt="Typing SVG" />
 </h3>
 
-![](https://komarev.com/ghpvc/?username=yh01yb)
+![Profile Views](https://komarev.com/ghpvc/?username=yh01yb)
 
 
 ## About
