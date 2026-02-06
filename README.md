@@ -22,5 +22,5 @@ I talk about cp and dev
 
 ## 📫 Reach me
 
-Twitter acc: [me](https://x.com/redlaysdedo)
-Email: [mail here](mailto:adityakumar1916@email.com) Linkedin: [Aditya Kumar](https://www.linkedin.com/in/adityalikesmath/)
+- Twitter acc: [redirect](https://x.com/redlaysdedo)
+- Email: [mail here](mailto:adityakumar1916@email.com) Linkedin: [Aditya Kumar](https://www.linkedin.com/in/adityalikesmath/)
