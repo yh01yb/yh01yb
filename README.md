@@ -8,7 +8,7 @@
 
 ## About
 
-i talk about cp and dev.
+I talk about cp and dev
 
 ## My Progress
 <div align="center">
@@ -18,12 +18,9 @@ i talk about cp and dev.
 
 </div>
 
-<!-- Animated Quote -->
-<h3>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00FF00&center=false&vCenter=false&width=435&lines=%3E+Building.+Breaking.+Learning.+Repeating." alt="Terminal Line" />
-</h3>
 
-## Reach me
 
-- twitter: [redlays](https://x.com/redlaysdedo)
-- email: [mail here](mailto:adityakumar1916@email.com) linkedin: [Aditya Kumar](https://www.linkedin.com/in/adityalikesmath/)
+## 📫 Reach me
+
+Twitter acc: [me](https://x.com/redlaysdedo)
+Email: [mail here](mailto:adityakumar1916@email.com) Linkedin: [Aditya Kumar](https://www.linkedin.com/in/adityalikesmath/)
